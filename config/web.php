@@ -50,6 +50,9 @@ $config = [
               'yii\web\JqueryAsset' => [
                   'js'=>[]
               ],
+              'yii\bootstrap\BootstrapPluginAsset' => [
+                    'js'=>[]
+                  ],
           ],
         ],
     ],
